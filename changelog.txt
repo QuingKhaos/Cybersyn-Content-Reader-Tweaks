@@ -5,3 +5,4 @@ Date: ????
     - [item=cybersyn-provider-reader] Change subgroup to circuit-input if SchallCircuitGroup is installed.
     - [item=cybersyn-requester-reader] Change subgroup to circuit-input if SchallCircuitGroup is installed.
     - [item=cybersyn-delivery-reader] Change subgroup to circuit-input if SchallCircuitGroup is installed.
+    - Remove circuit network 2 technology and move Cybersyn Content Reader unlocks to cybersyn train network technology.
